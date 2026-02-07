@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Technical Equity Trilogy"
+type: Article
+authors:
+  - family-names: "Davis"
+    given-names: "Matthew A."
+    orcid: "https://orcid.org/0009-0000-4309-3874" 
+license: "CC-BY-4.0"
+version: "2025"
+year: 2025
+keywords:
+  - Technical Equity
+  - enterprise systems
+  - structural narrative
+  - constraint
+  - time as medium
+  - interpretive saturation
+preferred-citation:
+  type: report
+  title: "Technical Equity Trilogy"
+  authors:
+    - family-names: "Davis"
+      given-names: "Matthew A."
+      orcid: "https://orcid.org/0009-0000-4309-3874"  
+  year: 2025
+  publisher: "GitHub repository (archived releases intended for Zenodo DOI minting)"
+  license: "CC-BY-4.0"
+  # TODO: add after first Zenodo mint:
+  # doi: "10.5281/zenodo.XXXXXXX"
+  # url: "https://github.com/<org-or-user>/<repo>"
